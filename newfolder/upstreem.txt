@@ -1,0 +1,1 @@
+Hi this an example to upload the data to remote repo along with new branch called newup branch.
