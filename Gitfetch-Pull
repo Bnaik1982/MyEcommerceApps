@@ -1,0 +1,6 @@
+Here we are shwowing git fetch and git merge demo.
+Git fetch download the file from remote repository but it does not merge the files into current working direcotory or local directory.
+$ git fetch origin main
+$ git status
+Git Pul download the files from remote repository and automatically merge the files into current branch or local directory.
+$ git pull origin main
